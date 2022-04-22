@@ -128,6 +128,7 @@ headers = {
     'authority': 'twitter.com',
     'accept': '*/*',
     'accept-language': 'en-US,en;q=0.9',
+    #dummy token, won't work for you so don't bother.
     'authorization': 'Bearer AAAAAAAAAAAAAAAAAAAAANRILgkdfhghjfdsbkjdsfgq16cHjhLTvJu4FA33AGWWjCpTnA',
     'cache-control': 'no-cache',
     'origin': 'https://twitter.com',
